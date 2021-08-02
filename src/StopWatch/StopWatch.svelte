@@ -3,7 +3,7 @@
 
  let count=0;
  let counter ;
- let display="";
+ let display="00:00:00";
  let pause=false;
  let started=false;
 
