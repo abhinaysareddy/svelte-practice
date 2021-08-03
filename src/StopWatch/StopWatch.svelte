@@ -42,7 +42,7 @@
 <Button on:click={startWatch} color={"primary"}  >Start
 
 </Button>
-<Button on:click={()=> {count=0}} color={"light"}  >Clear
+<Button on:click={()=> {count=0;display="00:00:00";}} color={"light"}  >Clear
 
 </Button>
 {/if}
